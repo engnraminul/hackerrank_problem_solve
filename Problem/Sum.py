@@ -1,3 +1,1 @@
-a=10
-b=20
-print(int(a+b))
+print(int(input("Enter your first number = ")) + int(input("Enter your 2nd number = ")))
